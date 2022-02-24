@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MediFeria/static/css/main.7fea5c96.css",
+    "main.js": "/MediFeria/static/js/main.f8e5390c.js",
+    "static/media/2.jpg": "/MediFeria/static/media/2.1ec145c14049e2a16df1.jpg",
+    "static/media/1.jpg": "/MediFeria/static/media/1.8a11754457c78e931fed.jpg",
+    "static/media/Libros-de-anatomia-humana..jpg": "/MediFeria/static/media/Libros-de-anatomia-humana..39c95172a8b59ec3478e.jpg",
+    "static/media/logo.png": "/MediFeria/static/media/logo.a09504a9b05c9d7daac8.png",
+    "static/media/Libro2.jpg": "/MediFeria/static/media/Libro2.cd21bb192252b5890085.jpg",
+    "static/media/slick.svg": "/MediFeria/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MediFeria/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MediFeria/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MediFeria/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MediFeria/index.html",
+    "main.7fea5c96.css.map": "/MediFeria/static/css/main.7fea5c96.css.map",
+    "main.f8e5390c.js.map": "/MediFeria/static/js/main.f8e5390c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fea5c96.css",
+    "static/js/main.f8e5390c.js"
+  ]
+}
